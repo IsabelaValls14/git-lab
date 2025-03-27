@@ -9,9 +9,9 @@ Git practice laboratory for my class to learn how to use Github and stuff.
 
 ### Lists
 
-- [x]Turn on GitHub Pages
-- [ ]Outline my portfolio
-- [ ]Introduce myself to the world
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ### Code Examples
 
